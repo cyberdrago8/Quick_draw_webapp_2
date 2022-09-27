@@ -1,0 +1,16 @@
+body
+{
+    background-color: #f12;
+}
+
+.timer
+{
+    float: right;
+    font-size:25px;
+}
+
+.Sketch_to_be_drawn {
+    color:rgb(10,83,10);
+    background-color: cornsilk;
+}
+
